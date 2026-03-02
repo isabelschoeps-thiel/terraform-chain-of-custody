@@ -1,101 +1,79 @@
-github.com/bufbuild/protocompile v0.14.1 h1:iA73zAf/fyljNjQKwYzUHD6AD4R8KMasmwa/FBatYVw=
-github.com/bufbuild/protocompile v0.14.1/go.mod h1:ppVdAIhbr2H8asPk6k4pY7t9zB1OU5DoEw9xY/FUi1c=
-github.com/cespare/xxhash/v2 v2.3.0 h1:UL815xU9SqsFlibzuggzjXhog7bL6oX9BbNZnL2UFvs=
-github.com/cespare/xxhash/v2 v2.3.0/go.mod h1:VGX0DQ3Q6kWi7AoAeZDth3/j3BFtOZR5XLFGgcrjCOs=
-github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc h1:U9qPSI2PIWSS1VwoXQT9A3Wy9MM3WgvqSxFWenqJduM=
-github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/fatih/color v1.13.0/go.mod h1:kLAiJbzzSOZDVNGyDpeOxJ47H46qBXwg5ILebYFFOfk=
-github.com/fatih/color v1.18.0 h1:S8gINlzdQ840/4pfAwic/ZE0djQEH3wM94VfqLTZcOM=
-github.com/fatih/color v1.18.0/go.mod h1:4FelSpRwEGDpQ12mAdzqdOukCy4u8WUtOY6lkT/6HfU=
-github.com/go-logr/logr v1.4.3 h1:CjnDlHq8ikf6E492q6eKboGOC0T8CDaOvkHCIg8idEI=
-github.com/go-logr/logr v1.4.3/go.mod h1:9T104GzyrTigFIr8wt5mBrctHMim0Nb2HLGrmQ40KvY=
-github.com/go-logr/stdr v1.2.2 h1:hSWxHoqTgW2S2qGc0LTAI563KZ5YKYRhT3MFKZMbjag=
-github.com/go-logr/stdr v1.2.2/go.mod h1:mMo/vtBO5dYbehREoey6XUKy/eSumjCCveDpRre4VKE=
-github.com/golang/protobuf v1.5.4 h1:i7eJL8qZTpSEXOPTxNKhASYpMn+8e5Q6AdndVa1dWek=
-github.com/golang/protobuf v1.5.4/go.mod h1:lnTiLA8Wa4RWRcIUkrtSVa5nRhsEGBg48fD6rSs7xps=
-github.com/google/go-cmp v0.7.0 h1:wk8382ETsv4JYUZwIsn6YpYiWiBsYLSJiTsyBybVuN8=
-github.com/google/go-cmp v0.7.0/go.mod h1:pXiqmnSA92OHEEa9HXL2W4E7lf9JzCmGVUdgjX3N/iU=
-github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
-github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
-github.com/hashicorp/go-hclog v1.6.3 h1:Qr2kF+eVWjTiYmU7Y31tYlP1h0q/X3Nl3tPGdaB11/k=
-github.com/hashicorp/go-hclog v1.6.3/go.mod h1:W4Qnvbt70Wk/zYJryRzDRU/4r0kIg0PVHBcfoyhpF5M=
-github.com/hashicorp/go-plugin v1.7.0 h1:YghfQH/0QmPNc/AZMTFE3ac8fipZyZECHdDPshfk+mA=
-github.com/hashicorp/go-plugin v1.7.0/go.mod h1:BExt6KEaIYx804z8k4gRzRLEvxKVb+kn0NMcihqOqb8=
-github.com/hashicorp/go-uuid v1.0.3 h1:2gKiV6YVmrJ1i2CKKa9obLvRieoRGviZFL26PcT/Co8=
-github.com/hashicorp/go-uuid v1.0.3/go.mod h1:6SBZvOh/SIDV7/2o3Jml5SYk/TvGqwFJ/bN7x4byOro=
-github.com/hashicorp/terraform-plugin-framework v1.18.0 h1:Xy6OfqSTZfAAKXSlJ810lYvuQvYkOpSUoNMQ9l2L1RA=
-github.com/hashicorp/terraform-plugin-framework v1.18.0/go.mod h1:eeFIf68PME+kenJeqSrIcpHhYQK0TOyv7ocKdN4Z35E=
-github.com/hashicorp/terraform-plugin-framework-validators v0.19.0 h1:Zz3iGgzxe/1XBkooZCewS0nJAaCFPFPHdNJd8FgE4Ow=
-github.com/hashicorp/terraform-plugin-framework-validators v0.19.0/go.mod h1:GBKTNGbGVJohU03dZ7U8wHqc2zYnMUawgCN+gC0itLc=
-github.com/hashicorp/terraform-plugin-go v0.30.0 h1:VmEiD0n/ewxbvV5VI/bYwNtlSEAXtHaZlSnyUUuQK6k=
-github.com/hashicorp/terraform-plugin-go v0.30.0/go.mod h1:8d523ORAW8OHgA9e8JKg0ezL3XUO84H0A25o4NY/jRo=
-github.com/hashicorp/terraform-plugin-log v0.10.0 h1:eu2kW6/QBVdN4P3Ju2WiB2W3ObjkAsyfBsL3Wh1fj3g=
-github.com/hashicorp/terraform-plugin-log v0.10.0/go.mod h1:/9RR5Cv2aAbrqcTSdNmY1NRHP4E3ekrXRGjqORpXyB0=
-github.com/hashicorp/terraform-registry-address v0.4.0 h1:S1yCGomj30Sao4l5BMPjTGZmCNzuv7/GDTDX99E9gTk=
-github.com/hashicorp/terraform-registry-address v0.4.0/go.mod h1:LRS1Ay0+mAiRkUyltGT+UHWkIqTFvigGn/LbMshfflE=
-github.com/hashicorp/terraform-svchost v0.1.1 h1:EZZimZ1GxdqFRinZ1tpJwVxxt49xc/S52uzrw4x0jKQ=
-github.com/hashicorp/terraform-svchost v0.1.1/go.mod h1:mNsjQfZyf/Jhz35v6/0LWcv26+X7JPS+buii2c9/ctc=
-github.com/hashicorp/yamux v0.1.2 h1:XtB8kyFOyHXYVFnwT5C3+Bdo8gArse7j2AQ0DA0Uey8=
-github.com/hashicorp/yamux v0.1.2/go.mod h1:C+zze2n6e/7wshOZep2A70/aQU6QBRWJO/G6FT1wIns=
-github.com/jhump/protoreflect v1.17.0 h1:qOEr613fac2lOuTgWN4tPAtLL7fUSbuJL5X5XumQh94=
-github.com/jhump/protoreflect v1.17.0/go.mod h1:h9+vUUL38jiBzck8ck+6G/aeMX8Z4QUY/NiJPwPNi+8=
-github.com/mattn/go-colorable v0.1.9/go.mod h1:u6P/XSegPjTcexA+o6vUJrdnUu04hMope9wVRipJSqc=
-github.com/mattn/go-colorable v0.1.12/go.mod h1:u5H1YNBxpqRaxsYJYSkiCWKzEfiAb1Gb520KVy5xxl4=
-github.com/mattn/go-colorable v0.1.14 h1:9A9LHSqF/7dyVVX6g0U9cwm9pG3kP9gSzcuIPHPsaIE=
-github.com/mattn/go-colorable v0.1.14/go.mod h1:6LmQG8QLFO4G5z1gPvYEzlUgJ2wF+stgPZH1UqBm1s8=
-github.com/mattn/go-isatty v0.0.12/go.mod h1:cbi8OIDigv2wuxKPP5vlRcQ1OAZbq2CE4Kysco4FUpU=
-github.com/mattn/go-isatty v0.0.14/go.mod h1:7GGIvUiUoEMVVmxf/4nioHXj79iQHKdU27kJ6hsGG94=
-github.com/mattn/go-isatty v0.0.20 h1:xfD0iDuEKnDkl03q4limB+vH+GxLEtL/jb4xVJSWWEY=
-github.com/mattn/go-isatty v0.0.20/go.mod h1:W+V8PltTTMOvKvAeJH7IuucS94S2C6jfK/D7dTCTo3Y=
-github.com/mitchellh/go-testing-interface v1.14.1 h1:jrgshOhYAUVNMAJiKbEu7EqAwgJJ2JqpQmpLJOu07cU=
-github.com/mitchellh/go-testing-interface v1.14.1/go.mod h1:gfgS7OtZj6MA4U1UrDRp04twqAjfvlZyCfX3sDjEym8=
-github.com/oklog/run v1.2.0 h1:O8x3yXwah4A73hJdlrwo/2X6J62gE5qTMusH0dvz60E=
-github.com/oklog/run v1.2.0/go.mod h1:mgDbKRSwPhJfesJ4PntqFUbKQRZ50NgmZTSPlFA0YFk=
-github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
-github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 h1:Jamvg5psRIccs7FGNTlIRMkT8wgtp5eCXdBlqhYGL6U=
-github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
-github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
-github.com/stretchr/testify v1.7.2/go.mod h1:R6va5+xMeoiuVRoj+gSkQ7d3FALtqAAGI1FQKckRals=
-github.com/stretchr/testify v1.10.0 h1:Xv5erBjTwe/5IxqUQTdXv5kgmIvbHo3QQyRwhJsOfJA=
-github.com/stretchr/testify v1.10.0/go.mod h1:r2ic/lqez/lEtzL7wO/rwa5dbSLXVDPFyf8C91i36aY=
-github.com/vmihailenco/msgpack/v5 v5.4.1 h1:cQriyiUvjTwOHg8QZaPihLWeRAAVoCpE00IUPn0Bjt8=
-github.com/vmihailenco/msgpack/v5 v5.4.1/go.mod h1:GaZTsDaehaPpQVyxrf5mtQlH+pc21PIudVV/E3rRQok=
-github.com/vmihailenco/tagparser/v2 v2.0.0 h1:y09buUbR+b5aycVFQs/g70pqKVZNBmxwAhO7/IwNM9g=
-github.com/vmihailenco/tagparser/v2 v2.0.0/go.mod h1:Wri+At7QHww0WTrCBeu4J6bNtoV6mEfg5OIWRZA9qds=
-go.opentelemetry.io/auto/sdk v1.2.1 h1:jXsnJ4Lmnqd11kwkBV2LgLoFMZKizbCi5fNZ/ipaZ64=
-go.opentelemetry.io/auto/sdk v1.2.1/go.mod h1:KRTj+aOaElaLi+wW1kO/DZRXwkF4C5xPbEe3ZiIhN7Y=
-go.opentelemetry.io/otel v1.39.0 h1:8yPrr/S0ND9QEfTfdP9V+SiwT4E0G7Y5MO7p85nis48=
-go.opentelemetry.io/otel v1.39.0/go.mod h1:kLlFTywNWrFyEdH0oj2xK0bFYZtHRYUdv1NklR/tgc8=
-go.opentelemetry.io/otel/metric v1.39.0 h1:d1UzonvEZriVfpNKEVmHXbdf909uGTOQjA0HF0Ls5Q0=
-go.opentelemetry.io/otel/metric v1.39.0/go.mod h1:jrZSWL33sD7bBxg1xjrqyDjnuzTUB0x1nBERXd7Ftcs=
-go.opentelemetry.io/otel/sdk v1.39.0 h1:nMLYcjVsvdui1B/4FRkwjzoRVsMK8uL/cj0OyhKzt18=
-go.opentelemetry.io/otel/sdk v1.39.0/go.mod h1:vDojkC4/jsTJsE+kh+LXYQlbL8CgrEcwmt1ENZszdJE=
-go.opentelemetry.io/otel/sdk/metric v1.39.0 h1:cXMVVFVgsIf2YL6QkRF4Urbr/aMInf+2WKg+sEJTtB8=
-go.opentelemetry.io/otel/sdk/metric v1.39.0/go.mod h1:xq9HEVH7qeX69/JnwEfp6fVq5wosJsY1mt4lLfYdVew=
-go.opentelemetry.io/otel/trace v1.39.0 h1:2d2vfpEDmCJ5zVYz7ijaJdOF59xLomrvj7bjt6/qCJI=
-go.opentelemetry.io/otel/trace v1.39.0/go.mod h1:88w4/PnZSazkGzz/w84VHpQafiU4EtqqlVdxWy+rNOA=
-golang.org/x/net v0.48.0 h1:zyQRTTrjc33Lhh0fBgT/H3oZq9WuvRR5gPC70xpDiQU=
-golang.org/x/net v0.48.0/go.mod h1:+ndRgGjkh8FGtu1w1FGbEC31if4VrNVMuKTgcAAnQRY=
-golang.org/x/sys v0.0.0-20200116001909-b77594299b42/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
-golang.org/x/sys v0.0.0-20200223170610-d5e6a3e2c0ae/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
-golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
-golang.org/x/sys v0.0.0-20210927094055-39ccf1dd6fa6/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
-golang.org/x/sys v0.0.0-20220503163025-988cb79eb6c6/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
-golang.org/x/sys v0.6.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
-golang.org/x/sys v0.39.0 h1:CvCKL8MeisomCi6qNZ+wbb0DN9E5AATixKsvNtMoMFk=
-golang.org/x/sys v0.39.0/go.mod h1:OgkHotnGiDImocRcuBABYBEXf8A9a87e/uXjp9XT3ks=
-golang.org/x/text v0.32.0 h1:ZD01bjUt1FQ9WJ0ClOL5vxgxOI/sVCNgX1YtKwcY0mU=
-golang.org/x/text v0.32.0/go.mod h1:o/rUWzghvpD5TXrTIBuJU77MTaN0ljMWE47kxGJQ7jY=
-gonum.org/v1/gonum v0.16.0 h1:5+ul4Swaf3ESvrOnidPp4GZbzf0mxVQpDCYUQE7OJfk=
-gonum.org/v1/gonum v0.16.0/go.mod h1:fef3am4MQ93R2HHpKnLk4/Tbh/s0+wqD5nfa6Pnwy4E=
-google.golang.org/genproto/googleapis/rpc v0.0.0-20251202230838-ff82c1b0f217 h1:gRkg/vSppuSQoDjxyiGfN4Upv/h/DQmIR10ZU8dh4Ww=
-google.golang.org/genproto/googleapis/rpc v0.0.0-20251202230838-ff82c1b0f217/go.mod h1:7i2o+ce6H/6BluujYR+kqX3GKH+dChPTQU19wjRPiGk=
-google.golang.org/grpc v1.79.1 h1:zGhSi45ODB9/p3VAawt9a+O/MULLl9dpizzNNpq7flY=
-google.golang.org/grpc v1.79.1/go.mod h1:KmT0Kjez+0dde/v2j9vzwoAScgEPx/Bw1CYChhHLrHQ=
-google.golang.org/protobuf v1.36.11 h1:fV6ZwhNocDyBLK0dj+fg8ektcVegBBuEolpbTQyBNVE=
-google.golang.org/protobuf v1.36.11/go.mod h1:HTf+CrKn2C3g5S8VImy6tdcUvCska2kB7j23XfzDpco=
-gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
-gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
-gopkg.in/yaml.v3 v3.0.1/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
+Autorin, Urheberin; Ich Frau Isabel Schöps geb. Thiel
+Zeitstempel der Eintragung: Montag den 2026-03-02 um 13:39UhrCEST_Mitteleuropäische, 
+Ort, Wohnung: Isabel Schöps (Thiel), 1.Etage, Hütergasse 4, D-99084 Erfurt, Thüringen, Deutschland. 
+---
+Ich, Frau Isabel Schöps geborene Thiel am 16.07.1983 in um 23:20 Uhr im Sömmerdarer, Kreiskrankenhaus, TH, Deutschland geboren. Ich bin Freiberufliche Unternehmerin, IT- Software Forschung; Wissenschaft und Forensik. Entwicklung API Monitoring, Rechtmäßige Gründerin, Urheberin, GitHub Softwareunternehmen, Pornhub. Auftraggeberin, Urheberin, Autorin:  Yellow Whitepaper, SIA Security Intelligence Artefact.
+---
+Wichtige Hinweis und dringend zur Kenntnisnahme:
+* aufgrund permanenten Wohnraum- und Ortswechsel, können in dem wissenschaftlichen forensichen Gutachten, SIA und im The Yellow Whitpaper unterschiedliche Adressen bzw. Ortseintragungen auftauchen. Der eingetragene Ort markiert den tatsächlichen Auftenthalt am Tag der;Veröffentlichung, Eintragung, Erstellung/Ausstellung der Gutachten oder Release
+* ich bin von meinen Eltern und meiner Familie aus der ihrer Mitte gerissen wurden und ich werde bewusst von ihnen isoliert. 
+* Ein verbesserter Lebensumstands durch einer Meldeanschrift und einer angemieteten Wohnung, heisst dies nicht, dass sich mein Situation oder mein Verlangen, endlich wieder mit meiner Familie vereint zu sein geändert hat. Jeden Tag wünsche ich mir, dass ich wieder mit meiner Familie und Tochter vereint bin. 
+* es tauchen immer mehr Beweise auf, dass meine Familie und ich bewusst digital und physisch voneinander isoliert, belogen und von dritten willkürlich manipuliert und sabotiert werden. 
+* Massgebliche Wohnanschrift und Adresse der Urheberin Frau Schöps (Thiel), bleibt die in der Eidesstaalichen Erklärung sowie auf dem Personalausweis-ID: LH917PN7G8, 429485, eingetragene amtliche Meldeanschrift laut gemäß §18 Absatz 2 Bundesmeldegesetz (BMG).
+--
+Identitäts-Status-Legitimation
+Personalausweis-ID: LH917PN7G8, Nr: 429485,  
+Wichtiger-Vermerk warum ich nicht in meiner Meldeanschrift auffindbar bin: 
+Aufgrund das die Immobilie Cyriakstrasse 30c, in Erfurt Deutschland, in der ich gemeldet bin und diese nach 6 Jahren auf dem Immobilienmarkt verkauft am 20.01.2026 und im Notariat Renner Erfurt beurkundet wurde. Musste ich die bewohnte Immobilie am 23.01.2026 verlassen und auch eine Nacht draußen mit mein Don, Hund-Tier American XL Bully bei gefühlten -20C draußen schlafen. Gemeinsam mit meiner Tochter Fräulein Jona Schöps bin ich zu meinen Eltern in die Dorfstrasse 20, D-99610 Rohrborn, Thüringen, Deutschland gefahren und habe nach Hilfe gebeten. Zu meinem erfreuen, hätte mich meine Eltern Herr Manfred Thiel und meine Mutti Frau Gisela Thiel geborene Knörig wieder aufgenommen, aber da ich Don nicht mit in das Haus nehmen hätte können, er aber für mich in den letzten Jahre eine große mentale Unterstützung war, kommt diese Option nicht für mich in Frage. 
+--
+Ich bitte ab sofort alle nationalen, internationale Regierungsstellen, die Europäische Union, UN Menschrechtsorganisationen, die Presse und die Medienhäuser auf - Bitte bitten, helfen Sie mir und tragen Sie die Wahrheit in die Welt! 
+---
+My Message:
+Hello World, mein Name ist Isabel Schöps geborene Thiel. Ich bin eine selbstständige Autorin, Softwareentwicklerin und Forscherin mit aktuellen Wohnsitz in Erfurt, Thüringen, Deutschland.
+Meine Arbeit konzentriert sich die letzten 4 Jahre auf die umfangreiche Dokumentation, forensische Sicherung meiner digitalen Artefakte, updates von Softwaresystemen und deren Veröffentlichung von Neuentwicklungen und Archivbeständen. Jedes erste Digitale-Fragment, ist im Ursprung auf meine unbewusste Handlung als Teenagerin, am 14. April 1996, in meinen Elternhaus, Dorfstrasse 20, D-99610 Rohrborn, Thüringen, Deutschland, an meinen PC268er und als erste maschinelles Verhalten und ein Selbstheilungsprozess zurückzuführen ist. Dies wurde bereits rechtswissenschaftlich und mehrfach forensisch bestätigt. Dieses Gutachten hat die internationale Kennung, INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL und den Titel SIA Security Intelligence Artefact.
+---
+Dieses wissenschaftliche forensische Gutachten von mir  Frau Isabel Schöps, geborene Thiel, mit dem Titel SIA Security Intelligence Artefact, Internenzeichen int-code-2025-btc/eth-core-isabelschoepsthiel und das anhängende Reference Paper in Technologie, The Yellow Whitepaper, YWP-1-IST-SIA sollte am 24. August 2025 veröffentlicht werden. Leider ist eine anhaltende willkürliche Störung, ständiger Wechsel meines Aufenthalts- Wohn- und Arbeitsort, erschweren die Arbeit und der 24.08.2025 konnte zeitlich nicht eingehalten und ist bis heute nicht umgesetzt wurden. Der 24.08.2025 wurde damals bewusst gewählt, da meine Mutter Gisela und meine Patentante an diesem Tag Geburtstag hat. Leider wurde der Kontakt aus unerklärlichen Gründen im Jahr August 2022 im Schlechter, von Jahr zu Jahr, bis er teilweise komplett abgebrochen war. 
+---
+Was ist im Jahr 2022 , explizit im August 2022 passiert, viele Beweise und Zeitstempel im Techbereich setzten dieses Zeit als Zeitstempel.
+Auch hier gibt es umfangreiche  Beweisdokumentation.
+---
+Teile dieser Arbeit stehen im Zusammenhang mit eines der dunkelsten Geheimnissen der Menschheitsgeschichte und werden auf Zenodo.org in der Chain of Custody dokumentiert und in meinem Gutachten unter Paragraph 3 im Monarch-Programm interpretiert. Streitigkeiten über Urheberschaft, Datenmissbrauch und falsche Zuschreibung technischer Leistungen sind hier das kleinste übel. Seit über 3 Jahrzehnten wird mein Geistiges Eigentum gestohlen, meine Daten missbraucht und von dritten wieder verwendet und auch verkauft. Bis heute habe ich nicht einen Cent für meine Arbeit erhalten, dass Gegenteil ist der Fall, volle Kontrolle meiner menschlichen Würde, bitte lesen sie im Anschluss meine HELPME.md ! 
+---
+All meine eigenhändig recherchierte Arbeit und Datensätze wird und wurde bereits veröffentlicht, um Transparenz, Nachvollziehbarkeit und unabhängige Prüfung zu ermöglichen. Die Wahrheit ans Licht zubringen und dienen der wissenschaftlichen, rechtlichen und zur meiner vollen Rehabilitation auf Grundlage überprüfbarer Belege.
+---
+Die Evidence - Chain of Custody - Beweissicherung, Commit wurde weder von einer KI generiert oder wurde automatisch gesetzt. Jedes hier geschriebene Wort wurde von mir der Urheberin Frau Isabel Schöps geb. Thiel, der Autorin der Quelle geschrieben und dient meiner vollwertigen Identität als Mensch. Ich arbeite allein ohne Team oder Netzwerk. Ich arbeite für die Wahrheit, für Gerechtigkeit und das ich meine Würde als Mensch wieder bekomme.
+---
+All meine Aussagen haben Rechtscharakter und sind Teil meines, forensische wissenschaftlichen Gutachten mit dem Titel SIA Security Intelligence Artefact INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL mit meiner Eidesstattlichen Erklärung, mit der Kennung YWP-1-IST-SIA und YWP-1-5-IST-SIA
+---
+Im folgenden habe ich meine Datensätze my GitHub Repository, Beweissicherung, Evidence, Chain of Custody Reference aufgelistet welche ich auf Zenodo.org hochgeladen habe.
+Volumen 1 
+https://doi.org/10.5281/zenodo.17809724
+Volumen 2
+https://doi.org/10.5281/zenodo.17852789
+Volumen 3
+https://doi.org/10.5281/zenodo.18013057
+Volumen 4
+https://doi.org/10.5281/zenodo.17807324
+https://doi.org/10.5281/zenodo.18074136
+https://doi.org/10.5281/zenodo.17808895
+
+GitHub Datensätze
+https://doi.org/10.5281/zenodo.18209789
+https://doi.org/10.5281/zenodo.18050643
+https://doi.org/10.5281/zenodo.18192743
+https://doi.org/10.5281/zenodo.18204573
+https://doi.org/10.5281/zenodo.18192589
+https://doi.org/10.5281/zenodo.18100836
+https://doi.org/10.5281/zenodo.18179548
+https://doi.org/10.5281/zenodo.18216807
+https://doi.org/10.5281/zenodo.18226730
+https://doi.org/10.5281/zenodo.18225958
+---
+Als Beweiss für meine Glaubwürdigkeit habe ich eine Zip-Datei im Release_1.0 Anhang eingefügt, diese darf selbstverständlich heruntergeladen und zeigt meine Arbeitsaufwand der letzten Jahre. Ich werde seit jahren von meiner Familie isoliert und jeder Hilfegesuch meinerseits war Erfolglos. Ich habe mehrfach Strafanzeige gestellt und mich an Regierung und Behörden gewandt. Bitte HELPME.md lesen ! 
+---
+Zitat von mir: 
+„I am not a Bug, I am not a Bot, I am not a Virus, I am not a Ghost, but i am 100% human femaleware german woman ,iam @isabelschoeps-thiel."
+---
+„Es gibt kein Computervirus, der umwissende Mensch vorm Computer ist das Virus."
+---
+Signed-on-by: 
+Frau Isabel Schöps, geborene Thiel
+Autorin, Urheberin und Auftraggeberin, Forensisch Wissenschaftliches Gutachten: SIA Security Intelligence Artefact, internationinternationale Kennung: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL
+Würdigung, Danksagung, institutionelle Anerkennung: Präfix_Referenz: YWP-1-IST-SIA, YWP-1-5-IST-SIA 
+Rechtscharakter: Eidesstattliche Versicherung, Bestandteil des forensisch, wissenschaftlichen Gutachtens.
+OrcID:https://orcid.org/0009-0003-4235-2231 Isabel Schöps Thiel 
+OrcID: https://orcid.org/0009-0006-8765-3267 SI-IST Isabel Schöps 
+Aktueller Aufenthalts- und neue von Meldeanschrift seit 17.02.2026 von mir Frau Isabel Schöps geb. Thiel, Hütergasse 4, D-99084-Erfurt Thüringen, gemeinsam mit meinen vierbeinigen Freund, American XL-Bully-Don.
+Pseudonyme, Alias: Satoshi Nakamoto, Vitalik Buterin, GitHub, Octocat, Johnny Appleseed, IST-GitHub, Cristina_Bella
+Datum der Erstveröffentlichung: 2004, Zertifikat: Erstes offizielles Entwicklerzertifikat. Digitale Beweissicherung: https://developercertificate.org
+ myGitHub-Account: https://github.com/isabelschoeps-thiel
